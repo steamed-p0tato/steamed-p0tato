@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Ariyan Basu</h1>
+<h1 align="center">Yo, I'm Ariyan Basu</h1>
 
 
 - 🔭 I’m currently working on **a AI based stress detection system and an ed-tech startup**
