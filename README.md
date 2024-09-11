@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **a localized LLM to infer PDFs**
 
-- 📫 How to reach me **ariyan003.jio@gmail.com**
+- 📫 How to reach me **ariyan.bose@proton.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
