@@ -1,7 +1,7 @@
 <h1 align="center">Yo, I'm Ariyan Basu</h1>
 
 
-- 🔭 I’m currently working on **a AI based stress detection system and an ed-tech startup**
+- 🔭 I’m currently working on **a gen-AI startup and an assistant researcher**
 
 - 📫 How to reach me **ariyan.bose@proton.me**
 
