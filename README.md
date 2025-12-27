@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=steamed-p0tato&label=Profile%20views&color=0e75b6&style=flat" alt="steamed-p0tato" /> </p>
 
-- 📝 I regularly write articles on [ariyanbasu.site/blogs](ariyanbasu.site/blogs)
+- 📝 I regularly write articles on [ariyanbasu.site/blogs](https://www.ariyanbasu.site/blog.html)
 
 - 📫 How to reach me **ariyan.bose@proton.me**
 
-- 📄 Know about my experiences [ariyanbasu.site](ariyanbasu.site)
+- 📄 Know about my experiences [ariyanbasu.site](https://www.ariyanbasu.site/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
